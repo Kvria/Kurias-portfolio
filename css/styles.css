@@ -1,14 +1,15 @@
 h1 {
-  color: blue;
-}
-h2 {
-  color: green;
+  color: brown;
+  text-align: center;
   font-style: italic;
   text-align: center;
 }
+h3 {
+  color: grey;
+  font-style: oblique;
 p {
-  font-family: sans-serif;
-}
-ul {
+  font-family: times new roman;
+  }
+  ul {
   line-height: 40px;
 }
