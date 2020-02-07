@@ -1,0 +1,21 @@
+h1 {
+  color: yellow;
+  text-align: center;
+  font-style: oblique;
+}
+h3 {
+  color: brown;
+  font-style: italic;
+  text-align: center;
+}
+h4 {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul {
+  line-height: 20px;
+  text-align: center;
+}
+body{
+  /* background-image:url("https://bit.ly/39es3Uh"); */
+}
